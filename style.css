@@ -2209,3 +2209,12 @@ img {
   padding-right: 0;
   max-width: none;
 }
+
+code,
+pre {
+  background-color: rgb(212, 175, 236);
+  border: 1px solid black;
+  padding: 5px;
+  font-weight: bold;
+  border-radius: 5px;
+}
